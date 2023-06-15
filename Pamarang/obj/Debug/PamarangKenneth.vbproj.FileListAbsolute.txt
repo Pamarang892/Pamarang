@@ -1,0 +1,14 @@
+D:\Franz Files\SDM Subject\Janet\bin\Debug\TestCal.exe.config
+D:\Franz Files\SDM Subject\Janet\bin\Debug\TestCal.exe
+D:\Franz Files\SDM Subject\Janet\bin\Debug\TestCal.pdb
+D:\Franz Files\SDM Subject\Janet\bin\Debug\TestCal.xml
+D:\Franz Files\SDM Subject\Janet\obj\Debug\PamarangKenneth.vbproj.AssemblyReference.cache
+D:\Franz Files\SDM Subject\Janet\obj\Debug\PamarangKenneth.vbproj.SuggestedBindingRedirects.cache
+D:\Franz Files\SDM Subject\Janet\obj\Debug\TestCal.frmCal.resources
+D:\Franz Files\SDM Subject\Janet\obj\Debug\TestCal.Form2.resources
+D:\Franz Files\SDM Subject\Janet\obj\Debug\TestCal.Resources.resources
+D:\Franz Files\SDM Subject\Janet\obj\Debug\PamarangKenneth.vbproj.GenerateResource.cache
+D:\Franz Files\SDM Subject\Janet\obj\Debug\PamarangKenneth.vbproj.CoreCompileInputs.cache
+D:\Franz Files\SDM Subject\Janet\obj\Debug\TestCal.exe
+D:\Franz Files\SDM Subject\Janet\obj\Debug\TestCal.xml
+D:\Franz Files\SDM Subject\Janet\obj\Debug\TestCal.pdb
